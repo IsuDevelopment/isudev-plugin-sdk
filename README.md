@@ -19,7 +19,7 @@ Every plugin ships its own copy under its own namespace, so two isuDev plugins o
 
 ```json
 {
-	"repositories": [ { "type": "vcs", "url": "git@github.com:IsuDevelopment/isudev-plugin-sdk.git" } ],
+	"repositories": [ { "type": "vcs", "url": "https://github.com/IsuDevelopment/isudev-plugin-sdk.git" } ],
 	"require": { "isudev/plugin-sdk": "^0.1" },
 	"require-dev": { "brianhenryie/strauss": "^0.31" },
 	"extra": {
