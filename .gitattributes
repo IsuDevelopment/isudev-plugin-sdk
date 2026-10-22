@@ -1,0 +1,7 @@
+/.github export-ignore
+/AGENTS.md export-ignore
+/CLAUDE.md export-ignore
+/.gitignore export-ignore
+/.gitattributes export-ignore
+/phpcs.xml.dist export-ignore
+/composer.lock export-ignore
